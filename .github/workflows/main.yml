@@ -29,6 +29,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           git config user.email "st8tinchev@gmail.com"
-          git config user.name "StoyanTincehv"
+          git config user.name "StoyanTinchev"
           git remote add origin2 https://StoyanTinchev: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@github.com/StoyanTinchev/my-first-calculator.git
           git push origin2 main
